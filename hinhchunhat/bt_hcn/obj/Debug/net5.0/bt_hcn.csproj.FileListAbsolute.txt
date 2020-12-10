@@ -1,0 +1,16 @@
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\bt_hcn.exe
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\bt_hcn.deps.json
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\bt_hcn.runtimeconfig.json
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\bt_hcn.runtimeconfig.dev.json
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\bt_hcn.dll
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\ref\bt_hcn.dll
+D:\module2\week1\oop\hinhchunhat\bt_hcn\bin\Debug\net5.0\bt_hcn.pdb
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.csprojAssemblyReference.cache
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.AssemblyInfoInputs.cache
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.AssemblyInfo.cs
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.dll
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\ref\bt_hcn.dll
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.pdb
+D:\module2\week1\oop\hinhchunhat\bt_hcn\obj\Debug\net5.0\bt_hcn.genruntimeconfig.cache
