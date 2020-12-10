@@ -1,0 +1,16 @@
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\lop giai phuong trinh bac 2.exe
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\lop giai phuong trinh bac 2.deps.json
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\lop giai phuong trinh bac 2.runtimeconfig.json
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\lop giai phuong trinh bac 2.runtimeconfig.dev.json
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\lop giai phuong trinh bac 2.dll
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\ref\lop giai phuong trinh bac 2.dll
+D:\module2\week1\oop\lop giai phuong trinh bac 2\bin\Debug\net5.0\lop giai phuong trinh bac 2.pdb
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.csprojAssemblyReference.cache
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.AssemblyInfoInputs.cache
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.AssemblyInfo.cs
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.dll
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\ref\lop giai phuong trinh bac 2.dll
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.pdb
+D:\module2\week1\oop\lop giai phuong trinh bac 2\obj\Debug\net5.0\lop giai phuong trinh bac 2.genruntimeconfig.cache
