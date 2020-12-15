@@ -1,0 +1,16 @@
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.csprojAssemblyReference.cache
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.AssemblyInfoInputs.cache
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.AssemblyInfo.cs
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\zoo management.exe
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\zoo management.deps.json
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\zoo management.runtimeconfig.json
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\zoo management.runtimeconfig.dev.json
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\zoo management.dll
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\ref\zoo management.dll
+D:\module2\week1\oop\bt_them\zoo management\bin\Debug\net5.0\zoo management.pdb
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.dll
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\ref\zoo management.dll
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.pdb
+D:\module2\week1\oop\bt_them\zoo management\obj\Debug\net5.0\zoo management.genruntimeconfig.cache
