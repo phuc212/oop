@@ -1,0 +1,16 @@
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\swap.exe
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\swap.deps.json
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\swap.runtimeconfig.json
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\swap.runtimeconfig.dev.json
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\swap.dll
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\ref\swap.dll
+D:\module2\week1\oop\test\swap\bin\Debug\net5.0\swap.pdb
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.csprojAssemblyReference.cache
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.AssemblyInfoInputs.cache
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.AssemblyInfo.cs
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.dll
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\ref\swap.dll
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.pdb
+D:\module2\week1\oop\test\swap\obj\Debug\net5.0\swap.genruntimeconfig.cache

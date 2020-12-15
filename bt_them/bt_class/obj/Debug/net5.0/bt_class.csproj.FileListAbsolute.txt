@@ -1,0 +1,16 @@
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\bt_class.exe
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\bt_class.deps.json
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\bt_class.runtimeconfig.json
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\bt_class.runtimeconfig.dev.json
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\bt_class.dll
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\ref\bt_class.dll
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\bin\Debug\net5.0\bt_class.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.csprojAssemblyReference.cache
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.AssemblyInfoInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.AssemblyInfo.cs
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.csproj.CoreCompileInputs.cache
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.dll
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\ref\bt_class.dll
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.pdb
+D:\module2\week1\bt-mangva-phuong-thuc\bt_them\bt_class\obj\Debug\net5.0\bt_class.genruntimeconfig.cache

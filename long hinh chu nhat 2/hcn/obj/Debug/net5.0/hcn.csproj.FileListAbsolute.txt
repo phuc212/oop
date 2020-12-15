@@ -1,0 +1,5 @@
+D:\module2\week1\oop\long hinh chu nhat 2\hcn\obj\Debug\net5.0\hcn.csprojAssemblyReference.cache
+D:\module2\week1\oop\long hinh chu nhat 2\hcn\obj\Debug\net5.0\hcn.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\long hinh chu nhat 2\hcn\obj\Debug\net5.0\hcn.AssemblyInfoInputs.cache
+D:\module2\week1\oop\long hinh chu nhat 2\hcn\obj\Debug\net5.0\hcn.AssemblyInfo.cs
+D:\module2\week1\oop\long hinh chu nhat 2\hcn\obj\Debug\net5.0\hcn.csproj.CoreCompileInputs.cache

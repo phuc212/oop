@@ -7,7 +7,7 @@ namespace lop_giai_phuong_trinh_bac_2
         static void Main(string[] args)
         {
             double delta;
-           GiaiPhuongTrinh giaiPhuongTrinh = new GiaiPhuongTrinh(2,4,-6);
+           GiaiPhuongTrinh giaiPhuongTrinh = new GiaiPhuongTrinh(2,4,2);
            delta = giaiPhuongTrinh.Delta();
            if(delta < 0)
            {Console.WriteLine("phuong trinh vo nghiem");}
@@ -16,8 +16,9 @@ namespace lop_giai_phuong_trinh_bac_2
                Console.WriteLine("phuong tring cos 2 nghiem:");
                Console.WriteLine($"nghiem 1 = {giaiPhuongTrinh.Nghiem1()}");
                 Console.WriteLine($"nghiem 2 = {giaiPhuongTrinh.Nghiem2()}");            
-           }else
-           {Console.WriteLine($"nghiem kep = {giaiPhuongTrinh.Nghiemkep()}")};
+           } else 
+           Console.WriteLine($"nghiem kep la: {giaiPhuongTrinh.Nghiemkep()}");
+      
         }
     }
     public class GiaiPhuongTrinh
