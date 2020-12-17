@@ -6,9 +6,13 @@ namespace zoo_management
     {
         public static Animal animal = new Animal();
         public static Cage cage = new Cage();
+        
+      
         public static Zoo zoo = new Zoo();
         static void Main(string[] args)
         {
+        
+
             int choice;
             while(true)
             {
@@ -33,7 +37,7 @@ namespace zoo_management
                 removeanimal();
                 break;
                 case 5:
-                cage.IterateAnimal();
+                IterateAnimal();
                 break;
                 case 6:
                 Environment.Exit(0);
@@ -74,7 +78,14 @@ namespace zoo_management
             Console.Write("nhap tieng keu");
             speak = Console.ReadLine();
 
-            cage.AddAnimal(name,description,age,speak);
+            for (int i = 0; i < zoo.CageList.Length; i++)
+            {
+                Console.WriteLine($"{i + 1}. Cage {zoo.CageList[i].cageNumber}");
+            }
+            Console.Write("Please choose cage to put animal: ");
+            int choice = int.Parse(Console.ReadLine());
+            choice = choice - 1;
+            zoo.CageList[choice].AddAnimal(name,description,age,speak);
          
         }
         public static void removeanimal()
@@ -83,6 +94,20 @@ namespace zoo_management
             Console.Write("nhap animal can xoa");
             name = Console.ReadLine();
             cage.RemoveAnimal(name);
+        }
+          public static void IterateAnimal()
+        {
+            for (int i = 0; i < zoo.CageList.Length; i++)
+            {
+                for (int j = 0; j < zoo.CageList[i].AnimalList.Length; j++)
+                {
+                    Console.Write(zoo.CageList[i].AnimalList[j].ViewInfor());
+                }
+            }  
+            // for (int i = 0; i < cage.AnimalList.Length; i++)
+            // {
+            //     Console.Write(cage.AnimalList[i].ViewInfor());
+            // }
         }
        
     }

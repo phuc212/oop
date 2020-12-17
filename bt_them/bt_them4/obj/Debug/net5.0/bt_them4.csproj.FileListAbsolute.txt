@@ -1,0 +1,16 @@
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\bt_them4.exe
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\bt_them4.deps.json
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\bt_them4.runtimeconfig.json
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\bt_them4.runtimeconfig.dev.json
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\bt_them4.dll
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\ref\bt_them4.dll
+D:\module2\week1\oop\bt_them\bt_them4\bin\Debug\net5.0\bt_them4.pdb
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.csprojAssemblyReference.cache
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.AssemblyInfoInputs.cache
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.AssemblyInfo.cs
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.dll
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\ref\bt_them4.dll
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.pdb
+D:\module2\week1\oop\bt_them\bt_them4\obj\Debug\net5.0\bt_them4.genruntimeconfig.cache

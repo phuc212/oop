@@ -3,10 +3,10 @@ namespace zoo_management
 {
     public class Zoo
     {
-        Cage[] CageList = new Cage[0];
+        public Cage[] CageList = new Cage[0];
         public void AddCage(int cageNumber)
         {
-            Cage cage = new Cage();
+            Cage cage = new Cage(cageNumber);
             Array.Resize(ref CageList,CageList.Length + 1 );
             CageList[CageList.Length - 1] = cage;
         }
@@ -24,5 +24,6 @@ namespace zoo_management
                 }
             }
         }
+         
     }
 }

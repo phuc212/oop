@@ -4,7 +4,7 @@ namespace zoo_management
     public class Cage
     {
         public int cageNumber;
-        Animal[] AnimalList = new Animal[0];
+        public Animal[] AnimalList = new Animal[0];
         public Cage()
         {
             
@@ -51,13 +51,6 @@ namespace zoo_management
                 }
             }
         }
-        public void IterateAnimal()
-        {
-            Console.Write(AnimalList.Length);
-            foreach (var item in AnimalList)
-            {
-                Console.Write(item.ViewInfor());
-            }
-        }
+      
     }
 }
