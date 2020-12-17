@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lop_circle_cylinder/1.0.0": {
+        "runtime": {
+          "lop_circle_cylinder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lop_circle_cylinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\lop_circle_cylinder.exe
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\lop_circle_cylinder.deps.json
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\lop_circle_cylinder.runtimeconfig.json
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\lop_circle_cylinder.runtimeconfig.dev.json
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\lop_circle_cylinder.dll
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\ref\lop_circle_cylinder.dll
+D:\module2\week1\oop\lop_circle_cylinder\bin\Debug\net5.0\lop_circle_cylinder.pdb
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.csprojAssemblyReference.cache
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.AssemblyInfoInputs.cache
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.AssemblyInfo.cs
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.dll
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\ref\lop_circle_cylinder.dll
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.pdb
+D:\module2\week1\oop\lop_circle_cylinder\obj\Debug\net5.0\lop_circle_cylinder.genruntimeconfig.cache
