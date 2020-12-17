@@ -1,0 +1,16 @@
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\xay_dung_lop_Fan.exe
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\xay_dung_lop_Fan.deps.json
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\xay_dung_lop_Fan.runtimeconfig.json
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\xay_dung_lop_Fan.runtimeconfig.dev.json
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\xay_dung_lop_Fan.dll
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\ref\xay_dung_lop_Fan.dll
+D:\module2\week1\oop\xay_dung_lop_Fan\bin\Debug\net5.0\xay_dung_lop_Fan.pdb
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.csprojAssemblyReference.cache
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.AssemblyInfoInputs.cache
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.AssemblyInfo.cs
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.dll
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\ref\xay_dung_lop_Fan.dll
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.pdb
+D:\module2\week1\oop\xay_dung_lop_Fan\obj\Debug\net5.0\xay_dung_lop_Fan.genruntimeconfig.cache
