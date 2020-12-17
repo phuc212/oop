@@ -1,0 +1,16 @@
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\lop_stopwatch.exe
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\lop_stopwatch.deps.json
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\lop_stopwatch.runtimeconfig.json
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\lop_stopwatch.runtimeconfig.dev.json
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\lop_stopwatch.dll
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\ref\lop_stopwatch.dll
+D:\module2\week1\oop\lop_stopwatch\bin\Debug\net5.0\lop_stopwatch.pdb
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.csprojAssemblyReference.cache
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.AssemblyInfoInputs.cache
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.AssemblyInfo.cs
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.csproj.CoreCompileInputs.cache
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.dll
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\ref\lop_stopwatch.dll
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.pdb
+D:\module2\week1\oop\lop_stopwatch\obj\Debug\net5.0\lop_stopwatch.genruntimeconfig.cache
